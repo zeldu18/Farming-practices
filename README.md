@@ -10,3 +10,4 @@
 - Built geospatial data pipelines to enhance fertilizer production by identifying key product features, driving business decisions.
 - Created data dashboards for 12 cities, assisting 10,000 farmers through analysis of income gaps and farming practices using Python.
 
+Edited and improved in 2026
