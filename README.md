@@ -13,4 +13,4 @@
 ## Edited and improved in March 2026
 - New projections metrics
 - Various methods of aggregation across regions
-- Dashboards and visualizations to show improvements more honestly
+- Dashboards and visualizations to show improvements more accurately
